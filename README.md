@@ -1,4 +1,4 @@
-# 🪪 Carlos Antônio de Jesus Rocha
+# 👋 Carlos Antônio de Jesus Rocha
 
 🎓 Estudante de Ciência da Computação
 
