@@ -18,12 +18,6 @@
 
 ### Azarii Loads
 
-Site inspirado na Porsche para download de vídeos e músicas.
+Site para download de vídeos e músicas com conversor.
 
 ---
-
-## 📚 Atualmente estudando
-
-- HTML
-- CSS
-- JavaScript
