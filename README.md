@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Antony
 
-<!--
-**antoonyz/antoonyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação
 
-Here are some ideas to get you started:
+💻 Aprendendo HTML, CSS e JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Desenvolvendo o projeto Azarii Loads
+
+---
+
+## 🚀 Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
+</p>
+
+---
+
+## 📂 Projeto Atual
+
+### Azarii Loads
+
+Site inspirado na Porsche para download de vídeos e músicas.
+
+---
+
+## 📚 Atualmente estudando
+
+- HTML
+- CSS
+- JavaScript
