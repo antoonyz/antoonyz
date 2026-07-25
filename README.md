@@ -4,8 +4,6 @@
 
 💻 Desenvolvedor Front-End
 
-🚀 Desenvolvendo o projeto Azarii Loads
-
 ---
 
 ## 🚀 Tecnologias
