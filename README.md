@@ -18,9 +18,13 @@
 
 ## 🚀 Projetos em destaque
 
-┌──────────────────────────────┐ 
-│ 🌐 Azarii Loads              │
-│ Meu site pessoal             │
-│ Html • Css • JavaScript      │
-│ 🔗 Ver projeto               │
-└──────────────────────────────┘
+## 💼 Projetos
+
+- 🌐 **Portfólio**
+  - React • Vite • Framer Motion
+
+- 🛒 **Loja de Beleza**
+  - HTML • CSS • JavaScript
+
+- 📚 **Dashboard de Estudos**
+  - HTML • CSS • JavaScript
