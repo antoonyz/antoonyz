@@ -19,6 +19,6 @@
 ## 🚀 Projetos em destaque
 
 
-| Preview | Informações |
+| Preview | Informações || Preview | Informações |
 |---------|-------------|
 | <img src="preview.png" width="300"> | **Azarii Loads**<br>HTML • CSS • JS<br>[🔗 Ver Projeto](...) |
