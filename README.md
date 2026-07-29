@@ -18,13 +18,17 @@
 
 ## 🚀 Projetos em destaque
 
-## 💼 Projetos
 
-- 🌐 **Portfólio**
-  - React • Vite • Framer Motion
+┌──────────────────────────────┐
+│ 🌐 Portfólio                 │
+│ Meu site pessoal             │
+│ React • Vite • Framer Motion │
+│ 🔗 Ver projeto               │
+└──────────────────────────────┘
 
-- 🛒 **Loja de Beleza**
-  - HTML • CSS • JavaScript
-
-- 📚 **Dashboard de Estudos**
-  - HTML • CSS • JavaScript
+┌──────────────────────────────┐
+│ 🛒 Loja de Beleza            │
+│ Loja virtual responsiva      │
+│ HTML • CSS • JS             │
+│ 🔗 Ver projeto              │
+└──────────────────────────────┘
