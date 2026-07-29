@@ -19,16 +19,6 @@
 ## 🚀 Projetos em destaque
 
 
-┌──────────────────────────────┐
-│ 🌐 Portfólio                 │
-│ Meu site pessoal             │
-│ React • Vite • Framer Motion │
-│ 🔗 Ver projeto               │
-└──────────────────────────────┘
-
-┌──────────────────────────────┐
-│ 🛒 Loja de Beleza            │
-│ Loja virtual responsiva      │
-│ HTML • CSS • JS             │
-│ 🔗 Ver projeto              │
-└──────────────────────────────┘
+| Preview | Informações |
+|---------|-------------|
+| <img src="preview.png" width="300"> | **Azarii Loads**<br>HTML • CSS • JS<br>[🔗 Ver Projeto](...) |
