@@ -16,10 +16,11 @@
 
 ---
 
-## 📂 Projeto Atual
+## 🚀 Projetos em destaque
 
-### Azarii Loads
-
-Site para download de vídeos e músicas com conversor.
-
----
+┌──────────────────────────────┐ 
+│ 🌐 Azarii Loads              │
+│ Meu site pessoal             │
+│ Html • Css • JavaScript      │
+│ 🔗 Ver projeto               │
+└──────────────────────────────┘
