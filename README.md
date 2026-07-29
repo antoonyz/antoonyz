@@ -11,7 +11,7 @@
 ## 🚀 Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,github"/>
 </p>
 
 ---
@@ -21,4 +21,4 @@
 
 | 🖼️ Projeto | 📖 Sobre | 🚀 Stack | 🌐 Link |
 |:---------:|-----------|:--------:|:-------:|
-| <img src="" width="250"> | **Azarii Loads**<br>Site desenvolvido para distribuição de downloads com foco em usabilidade. | HTML • CSS                 •  JavaScript | [🔗 Abrir Projeto](https://seulink.com) |
+| <img src="https://github.com/muriloferreira23/AZARII-Video-Downloader/blob/main/images/alogo.png?raw=true" width="250"> | **Azarii Loads**<br>Site desenvolvido para distribuição de downloads com foco em usabilidade. | HTML • CSS                 •  JavaScript | [🔗 Abrir Projeto](https://seulink.com) |
