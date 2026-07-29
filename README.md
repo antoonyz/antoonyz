@@ -19,6 +19,6 @@
 ## 🚀 Projetos em destaque
 
 
-| Preview | Informações |
-|---------|-------------|
-| <img src="preview.png" width="300"> | **Azarii Loads**<br>HTML • CSS • JS<br>[🔗 Ver Projeto](...) |
+| 🖼️ Projeto | 📖 Sobre | 🚀 Stack | 🌐 Link |
+|:---------:|-----------|:--------:|:-------:|
+| <img src="./imagens/azarii-loads.png" width="250"> | **Azarii Loads**<br>Site desenvolvido para distribuição de downloads com design responsivo, animações e foco em usabilidade. | HTML • CSS • JavaScript | [🔗 Abrir Projeto](https://seulink.com) |
