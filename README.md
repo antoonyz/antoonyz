@@ -21,4 +21,4 @@
 
 | 🖼️ Projeto | 📖 Sobre | 🚀 Stack | 🌐 Link |
 |:---------:|-----------|:--------:|:-------:|
-| <img src="[minilogo.png](https://postimg.cc/3dp4xHjK)" width="250"> | **Azarii Loads**<br>Site desenvolvido para distribuição de downloads com foco em usabilidade. | HTML • CSS                 •  JavaScript | [🔗 Abrir Projeto](https://seulink.com) |
+| <img src="" width="250"> | **Azarii Loads**<br>Site desenvolvido para distribuição de downloads com foco em usabilidade. | HTML • CSS                 •  JavaScript | [🔗 Abrir Projeto](https://seulink.com) |
