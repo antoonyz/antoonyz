@@ -1,5 +1,9 @@
 # 👋 Carlos Antônio de Jesus Rocha
 
+---
+
+🪪 Me 
+
 🎓 Estudante de Ciência da Computação
 
 💻 Desenvolvedor Front-End
